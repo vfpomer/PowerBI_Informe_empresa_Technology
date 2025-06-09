@@ -1,4 +1,5 @@
-![dashboard.png](img\dashboard.png)
+<img width="776" alt="dashboard" src="https://github.com/user-attachments/assets/b4719b0f-a0c7-4ea0-9e42-b709c0b1b977" />
+
 
 # 📊 Análisis de Utilidad y Márgenes | Power BI Dashboard (2019–2021)
 
