@@ -64,3 +64,5 @@ El propósito de este dashboard es proporcionar una herramienta interactiva que 
    ```bash
    git clone https://github.com/tuusuario/utilidad-margenes-powerbi.git
 
+🔗 Explora el dashboard completo aquí 👉 https://app.fabric.microsoft.com/groups/me/reports/8e98a679-503c-45d7-8e92-20c0a372fb45/a6991342c5e7c9089422?experience=fabric-developer
+
