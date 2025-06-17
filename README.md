@@ -41,11 +41,10 @@ El propósito de este dashboard es proporcionar una herramienta interactiva que 
 
 ## 📊 Capturas del Dashboard
 
-### Vista General
-![Dashboard General](img/dashboard_overview.png)
 
 ### Utilidad por Continente
-![Gráfico de torta](img/utilidad_por_continente.png)
+![imagen](https://github.com/user-attachments/assets/18e5ced2-26ee-492b-a4ae-a79a09f04b48)
+
 
 ---
 
